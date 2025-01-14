@@ -17,7 +17,7 @@ Kamaba News adalah aplikasi blog sederhana yang memungkinkan pengguna untuk meli
 ### Langkah-langkah
 1. Clone repository ini ke dalam direktori web server Anda.
     ```bash
-    git clone https://github.com/username/kamaba_news.git
+    git clone https://github.com/IlhamKurniawanBlora/kamaba_news.git
     ```
 2. Buat database `kamaba_news` di MySQL dan import file `database.sql` yang tersedia di dalam repository ini.
 3. Edit file konfigurasi koneksi database di `config.php` (jika diperlukan).
